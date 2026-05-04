@@ -128,6 +128,4 @@ taskflow/
 
 ---
 
-## License
 
-MIT
